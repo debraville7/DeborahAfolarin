@@ -15,3 +15,5 @@
 * Passionate about turning data into insights to support decision-making.
 
 * Looking to collaborate on data analysis jobs and projects to enhance my skillsets while contributing to the organization's growth.
+
+* Connect with me on <a name="[my-custom-anchor-point](https://www.linkedin.com/in/deborahchinazo/)"></a>
