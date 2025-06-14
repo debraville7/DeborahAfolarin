@@ -2,7 +2,7 @@
 # Welcome to my Github Page
 
 # Profile Summary<br/>
-* Data analyst in training with strong foundation in Python, SQL, Excel, Tableau, Power BI, and statistics.
+* Certified Data analyst with strong foundation in Python, SQL, Excel, Tableau, Power BI, Statistics, Azure, and Machine Learning.
 
 * Skilled in interpreting data through dashboards, reports, and visual storytelling.
 
@@ -12,4 +12,6 @@
 
 * Strong communication and problem-solving skills from customer-facing roles.
 
-* Passionate about turning data into insights to support informed decision-making
+* Passionate about turning data into insights to support decision-making.
+
+* Looking to collaborate on data analysis jobs and projects to enhance my skillsets whilst helping organizations make data-driven decisions.
