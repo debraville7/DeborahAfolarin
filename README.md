@@ -14,4 +14,4 @@
 
 * Passionate about turning data into insights to support decision-making.
 
-* Looking to collaborate on data analysis jobs and projects to enhance my skillsets whilst helping organizations make data-driven decisions.
+* Looking to collaborate on data analysis jobs and projects to enhance my skillsets while contributing to the organization's growth.
