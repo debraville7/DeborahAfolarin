@@ -8,7 +8,7 @@
 
 * Completed Data Analyst Diploma projects involving data cleaning, trend analysis, and analytical reporting.
 
-* Gained exposure to research and analytics through internships and externships.
+* Gained exposure to research and analytics through externships.
 
 * Strong communication and problem-solving skills from customer-facing roles.
 
