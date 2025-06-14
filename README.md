@@ -1,7 +1,7 @@
-# Hi there
-<ins># Welcome to my Github Page</ins>
+## Hi there
+# <ins>Welcome to my Github Page</ins>
 
-<ins># Profile Summary</ins>
+# <ins>Profile Summary</ins>
 Data analyst in training with strong foundation in Python, SQL, Excel, Tableau, Power BI, and statistics.
 
 Skilled in interpreting data through dashboards, reports, and visual storytelling.
