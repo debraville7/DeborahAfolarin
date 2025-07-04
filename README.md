@@ -2,7 +2,7 @@ Hi there
 # Welcome to my Github Page<br/>
 
 # About<br/>
-* Data analyst with strong foundation in Python, SQL, Excel, Tableau, Power BI, Statistics, Azure, and Machine Learning.
+* Data analyst with strong foundation in Python, SQL, Excel, Tableau, Power BI, Statistics, Azure, Big Data, and Machine Learning.
 
 * Skilled in interpreting data through dashboards, reports, and visual storytelling.
 
