@@ -2,13 +2,13 @@ Hi there
 # Welcome to my Github Page<br/>
 
 # About<br/>
-* Data analyst with strong foundation in Python, SQL, Excel, Tableau, Power BI, Statistics, Azure, Big Data, and Machine Learning.
+* Data analyst with strong foundation in Python, SQL, Excel, Tableau, Power BI, Statistics, Azure, Big Data, and Machine Learning🤖
 
-* Skilled in interpreting data through dashboards, reports, and visual storytelling.
+* Skilled in interpreting data through dashboards, reports, and visual storytelling📈
 
-* Completed Data Analyst Diploma projects involving data cleaning, trend analysis, and analytical reporting.
+* Completed Data Analyst Diploma projects involving data cleaning, trend analysis, and analytical reporting
 
-* Gained exposure to research and analytics through externships.
+* Gained exposure to research and analytics through internships
 
 * Strong communication and problem-solving skills from customer-facing roles.
 
