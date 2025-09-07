@@ -16,4 +16,4 @@ Hi there
 
 * Looking to collaborate on data analysis jobs and projects to enhance my skillsets while contributing to the organization's growth
 
-* Connect with me on [LinkedIn](https://www.linkedin.com/in/deborahchinazo)
+* Connect with me on [LinkedIn](https://www.linkedin.com/in/deborahchinazo) [TBS RADIAL](https://tbsradial.com)
