@@ -2,7 +2,7 @@ Hi there
 # Welcome to my Github Page<br/>
 
 # About<br/>
-* Data analyst with strong foundation in Python, SQL, Excel, Tableau, Power BI, Statistics, Apache Spark, R, AWS, and Machine Learning🤖
+* Data analyst with strong foundation in Python, SQL, Excel, Tableau, Power BI, Statistics, Apache Spark, R, AWS, Azure deveops, and Machine Learning🤖
 
 * Skilled in delivering business insights using dashboards, reports, and visual storytelling📈
 
